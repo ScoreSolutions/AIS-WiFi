@@ -1,0 +1,10 @@
+D:\MyProject\AIS-WiFi\DemoAIS-WiFi\DemoAIS-WiFi\bin\Debug\DemoAIS-WiFi.exe.config
+D:\MyProject\AIS-WiFi\DemoAIS-WiFi\DemoAIS-WiFi\bin\Debug\DemoAIS-WiFi.exe
+D:\MyProject\AIS-WiFi\DemoAIS-WiFi\DemoAIS-WiFi\bin\Debug\DemoAIS-WiFi.pdb
+D:\MyProject\AIS-WiFi\DemoAIS-WiFi\DemoAIS-WiFi\bin\Debug\DemoAIS-WiFi.xml
+D:\MyProject\AIS-WiFi\DemoAIS-WiFi\DemoAIS-WiFi\obj\Debug\DemoAIS_WiFi.frmDemoAisWiFi.resources
+D:\MyProject\AIS-WiFi\DemoAIS-WiFi\DemoAIS-WiFi\obj\Debug\DemoAIS_WiFi.Resources.resources
+D:\MyProject\AIS-WiFi\DemoAIS-WiFi\DemoAIS-WiFi\obj\Debug\DemoAIS-WiFi.vbproj.GenerateResource.Cache
+D:\MyProject\AIS-WiFi\DemoAIS-WiFi\DemoAIS-WiFi\obj\Debug\DemoAIS-WiFi.exe
+D:\MyProject\AIS-WiFi\DemoAIS-WiFi\DemoAIS-WiFi\obj\Debug\DemoAIS-WiFi.xml
+D:\MyProject\AIS-WiFi\DemoAIS-WiFi\DemoAIS-WiFi\obj\Debug\DemoAIS-WiFi.pdb

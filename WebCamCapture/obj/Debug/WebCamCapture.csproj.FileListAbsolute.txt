@@ -1,0 +1,10 @@
+D:\MyProject\VRM\VRMDesktop\WebCamCapture\bin\Debug\WebCam_Capture.dll
+D:\MyProject\VRM\VRMDesktop\WebCamCapture\bin\Debug\WebCam_Capture.pdb
+D:\MyProject\VRM\VRMDesktop\WebCamCapture\obj\Debug\WebCamCapture.csprojResolveAssemblyReference.cache
+D:\MyProject\VRM\VRMDesktop\WebCamCapture\obj\Debug\WebCam_Capture.dll
+D:\MyProject\VRM\VRMDesktop\WebCamCapture\obj\Debug\WebCam_Capture.pdb
+D:\MyProject\AIS-WiFi\WebCamCapture\bin\Debug\WebCam_Capture.dll
+D:\MyProject\AIS-WiFi\WebCamCapture\bin\Debug\WebCam_Capture.pdb
+D:\MyProject\AIS-WiFi\WebCamCapture\obj\Debug\WebCamCapture.csprojResolveAssemblyReference.cache
+D:\MyProject\AIS-WiFi\WebCamCapture\obj\Debug\WebCam_Capture.dll
+D:\MyProject\AIS-WiFi\WebCamCapture\obj\Debug\WebCam_Capture.pdb
